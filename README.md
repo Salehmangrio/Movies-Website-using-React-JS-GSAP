@@ -1,6 +1,7 @@
 
 # React Movie App
 
+ ## **Live Demo: [React Movie App](https://moviessaleh.netlify.app/)**
 This is a simple movie application built with **React**, **Vite**, and **TailwindCSS**. It allows users to search for movies and view details about them, including cast and crew information.
 The app uses the TMDB API to fetch movie data and displays it in a user-friendly interface. The application is designed to be responsive and works well on both desktop and mobile devices.
 The app is built using modern React features and follows best practices for state management and component structure. It also includes animations using **GSAP** for a more engaging user experience.
