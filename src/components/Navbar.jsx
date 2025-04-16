@@ -17,8 +17,9 @@ const Navbar = () => {
     <nav className="bg-gray-800 py-4">
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between">
-          <Link to="/" className="text-2xl font-bold text-white">
-            #SalehDB
+          <Link to="/" className="text-2xl font-extrabold text-white">
+            #MovieDB
+            <span className='text-md font-light '>Made by Saleh Mangrio</span>
           </Link>
           
           <div className="flex items-center space-x-6">
