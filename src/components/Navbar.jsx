@@ -19,7 +19,8 @@ const Navbar = () => {
         <div className="flex items-center justify-between">
           <Link to="/" className="text-2xl font-extrabold text-white">
             #MovieDB
-            <span className='text-md font-light '>Made by Saleh Mangrio</span>
+            <br />
+            <span className='text-sm font-light  opacity-80'>Made by Saleh Mangrio</span>
           </Link>
           
           <div className="flex items-center space-x-6">
